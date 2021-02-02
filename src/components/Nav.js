@@ -1,7 +1,9 @@
+import './Nav.css';
+
 function Nav() {
   return (
     <>
-      <h2>todos</h2>
+      <h2 className='title-text'>todos</h2>
     </>
   );
 }
